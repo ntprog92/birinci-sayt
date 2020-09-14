@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.birinci{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/img/bg-masthead.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 12rem 0;
+}
+.birinci h1{
+    font-size: 88px;
+    color: #212529;
+    
+}
+.birinci h3{
+    font-size: 28px;
+    color: #212529;
+    margin-bottom: 40px;
+    
+}
+.birinci button{
+    background-color: #1d809f;
+    color: #fff;
+    font-size: 16px;
+    padding: 20px 40px;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+}
+.ikinci{
+    text-align: center;
+    padding: 6rem 0;
+}
+.ikinci h2{
+    font-size: 32px;
+    color: #212529;
+}
+.ikinci p{
+    font-size: 20px;
+    color: #212529;
+    margin-top: 15px;
+}
+.ikinci button{
+    background-color: #343a40;
+    color: #fff;
+    font-size: 16px;
+    padding: 20px 40px;
+    border-radius: 5px;
+    margin-top: 40px;
+    border: none;
+    font-weight: bold;
+    
+}
+.ucuncu{
+    text-align: center;
+    background-color: #007bff;
+    padding: 5rem 0;
+}
+.ucuncu .ucuncu-text h3{
+    color: #ecb807;
+    font-size: 16px;
+}
+.ucuncu .ucuncu-text h2{
+    font-size: 48px;
+    color: #fff;
+}
+.all{
+    margin-top: 40px;
+}
+.all .box{
+    width: 25%;
+    float: left;
+}
+
+.all .box h4{
+    color: #fff;
+    font-size: 25px;
+}
+.all .box p{
+    color: #fff;
+    margin-top: 10px;
+}
+.dorduncu h2{
+    font-size: 56px;
+    color: #212529;
+}
+
+.dorduncu{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/img/bg-callout.jpg);
+    text-align:center ;
+    padding: 5rem;
+}
+
+.dorduncu button{
+font-size: 16px;
+color: #fff;
+background-color: #1D809F;
+padding: 20PX 40PX;
+border-radius: 5px;
+margin-top: 40px;
+border: none;
+font-weight: bold;
+}
